@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/ObtainGroupRowCountView/MainPage.xaml) (VB: [MainPage.xaml.vb](./VB/ObtainGroupRowCountView/MainPage.xaml.vb))
+* [MainPage.xaml.cs](./CS/ObtainGroupRowCountView/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/ObtainGroupRowCountView/MainPage.xaml.vb))
+<!-- default file list end -->
 # How to Obtain the Number of Visible Group Rows
 
 
